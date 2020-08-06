@@ -10,7 +10,7 @@ module.exports = {
       },
     ],
   ],
-  // These seeem to be necessary for useBuiltIns: 'usgae' to work properly
+  // These seem to be necessary for useBuiltIns: 'usage' to work properly
   sourceType: 'unambiguous',
   ignore: [/[/\\]core-js/, /@babel[/\\]runtime/],
 

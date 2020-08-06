@@ -10,7 +10,7 @@
 </template>
 
 <script>
-import {mapState, mapActions} from 'vuex'
+import { mapState, mapActions } from 'vuex'
 export default {
   name: 'errorBox',
   computed: {
@@ -34,7 +34,7 @@ export default {
   height: auto;
   padding-top: 1em;
   background-color: white;
-  box-shadow: @teal 25px 25px 1px 8px;
+  box-shadow: @mars 25px 25px 1px 8px;
   z-index: 200;
   overflow: hidden;
   line-height: 1.2;
@@ -54,7 +54,7 @@ export default {
 
 .dismiss-button {
   display: block;
-  background-color: @teal;
+  background-color: @mars;
   color: white;
   width: 100%;
   padding: 1em 0;

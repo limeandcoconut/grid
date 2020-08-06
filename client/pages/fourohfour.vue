@@ -18,7 +18,7 @@ export default {
 @import '../styles/mixins.less';
 
 .layout {
-  background-color: @teal;
+  background-color: @mars;
   .oxanium();
   font-size: .basis(10)[];
   width: 100vw;

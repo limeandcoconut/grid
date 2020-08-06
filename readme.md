@@ -60,9 +60,9 @@ https://github.com/vuejs/vue-style-loader/issues/33
 
 [Website 🌐](https://jacobsmith.tech)
 
-[js@jacobsmith.tech](mailto:js@jacobsmith.tech)
+[js@jacobsmith.tech 📧](mailto:js@jacobsmith.tech)
 
-[https://github.com/limeandcoconut](https://github.com/limeandcoconut)
+[https://github.com/limeandcoconut 🐙😸](https://github.com/limeandcoconut)
 
 [@limeandcoconut 🐦](https://twitter.com/limeandcoconut)
 
